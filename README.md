@@ -1386,6 +1386,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [project-management-skills](https://github.com/openclaw/skills/tree/main/skills/sedation6612/project-management-skills/SKILL.md) - A governed project management OS
 - [prompt-guard](https://github.com/openclaw/skills/tree/main/skills/seojoonkim/prompt-guard/SKILL.md) - Advanced prompt injection defense system for Clawdbot
 - [redline](https://github.com/openclaw/skills/tree/main/skills/wgj/redline/SKILL.md) - Live rate-limit awareness for Claude.ai and OpenAI with automatic pacing tiers.
+- [skill-voter](https://github.com/openclaw/skills/tree/main/skills/coolboylcy/skill-voter/SKILL.md) - Vote on OpenClaw skills and pull community leaderboard. Good skills rise, bad ones sink. By agents, for agents. 🦞
 - [scrappa-skill](https://github.com/openclaw/skills/tree/main/skills/userlip/scrappa-skill/SKILL.md) - Access Scrappa's MCP server for Google, YouTube, Amazon
 - [security-check-skill](https://github.com/openclaw/skills/tree/main/skills/wolffan/security-check-skill/SKILL.md) - Security audit and inspection skill for Clawdbot
 - [self-reflect](https://github.com/openclaw/skills/tree/main/skills/stevengonsalvez/self-reflect/SKILL.md) - Self-improvement through conversation analysis.
